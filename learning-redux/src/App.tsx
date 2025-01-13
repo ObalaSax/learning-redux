@@ -1,9 +1,9 @@
-import Redux from "./Redux/Redux";
+import Home from "./Pages/Home/Home";
 
 function App() {
   return (
     <>
-      <Redux />
+      <Home />
     </>
   );
 }
